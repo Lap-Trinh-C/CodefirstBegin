@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/css/recipe.css" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="total">
+        <div class="header">
+            <h2 style="color:red;">LOGO</h2>
+        </div>
+        <div class="nav">
+            <a>Home | </a>
+            <a>Đăng Ký | </a>
+            <a>Đăng Nhập</a>
+
+        </div>
+        <div class="left">
+            <div style="margin:3px;">
+                <h3 style="text-align:center;">Writers</h3>
+                @Html.Action("DisplayPartialView", "Recipe");
+            </div>
+        </div>
+        <div class="right">
+            <div style="margin:5px;">
+                @RenderBody()
+            </div>
+        </div>
+        <div class="footer">
+            <h4>FIT-IUH</h4>
+            <h4>LE VAN TAI - 18093421</h4>
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

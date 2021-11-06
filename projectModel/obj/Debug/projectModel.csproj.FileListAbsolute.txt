@@ -1,0 +1,11 @@
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectModel\bin\Debug\projectModel.dll.config
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectModel\bin\Debug\projectModel.dll
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectModel\bin\Debug\projectModel.pdb
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectModel\bin\Debug\EntityFramework.dll
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectModel\bin\Debug\EntityFramework.SqlServer.dll
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectModel\bin\Debug\EntityFramework.xml
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectModel\bin\Debug\EntityFramework.SqlServer.xml
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectModel\obj\Debug\projectModel.csproj.CoreCompileInputs.cache
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectModel\obj\Debug\projectModel.csproj.CopyComplete
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectModel\obj\Debug\projectModel.dll
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectModel\obj\Debug\projectModel.pdb

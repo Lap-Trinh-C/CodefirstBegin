@@ -1,0 +1,17 @@
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\bin\Debug\projectAccessData.dll.config
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\bin\Debug\projectAccessData.dll
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\bin\Debug\projectAccessData.pdb
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\bin\Debug\EntityFramework.dll
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\bin\Debug\EntityFramework.SqlServer.dll
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\bin\Debug\projectModel.dll
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\bin\Debug\projectModel.pdb
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\bin\Debug\projectModel.dll.config
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\bin\Debug\EntityFramework.xml
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\bin\Debug\EntityFramework.SqlServer.xml
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\obj\Debug\projectAccessData.csproj.AssemblyReference.cache
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\obj\Debug\projectAccessData.csproj.CoreCompileInputs.cache
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\obj\Debug\projectAccessData.csproj.CopyComplete
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\obj\Debug\projectAccessData.dll
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\obj\Debug\projectAccessData.pdb
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\obj\Debug\projectAccessData.Migrations.initial.resources
+F:\Mon_Lap_Trinh_WEB_ASPNET_MVC\BaiTapCo_Giao\LeVanTai18093421-codefirst\projectAccessData\obj\Debug\projectAccessData.csproj.GenerateResource.cache

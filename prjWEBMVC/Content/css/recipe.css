@@ -1,0 +1,32 @@
+﻿
+.total{
+    margin: 0px auto;
+    margin-top:20px;
+    width:70%;
+    border:1px solid red;
+    height: auto;
+}
+.header {
+    text-align: center;
+    border-bottom: 1px solid red;
+}
+.nav{
+    text-align:center;
+    color:red;
+    border-bottom:1px solid red;
+}
+.left {
+    float: left;
+    width: 30%;
+}
+.right {
+    margin-top: 10px;
+    float: right;
+    width: 70%;
+    border-left: 1px solid red;
+}
+.footer{
+    clear:right;
+    border-top:1px solid red;
+    text-align:center;
+}

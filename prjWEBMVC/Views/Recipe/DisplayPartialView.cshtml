@@ -1,0 +1,11 @@
+﻿@model IEnumerable<projectModel.Write>
+
+@{
+    ViewBag.Title = "DisplayPartialView";
+}
+
+<ul>
+    @foreach (var item in Model) { 
+    <li><a href="@Url.Action("GetRecipeWithWriter","Recipe", new {@id = item.Id})">@item.Name</a></li>
+    }
+</ul>
